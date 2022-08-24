@@ -1,0 +1,19 @@
+{
+    "name": "debugsolver/bappe",
+    "description": "This will Insatall Project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mahadi Hassan",
+            "email": "mahadi.web.86@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Debugsolver\\Bappe\\": "src/"
+        }
+    }
+}
